@@ -1,4 +1,6 @@
-# Track only index.html and this file
+# Track entry + app pages and this file
 *
 !.gitignore
 !index.html
+!desktop.html
+!mobile.html
